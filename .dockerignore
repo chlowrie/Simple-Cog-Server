@@ -1,0 +1,6 @@
+Dockerfile
+cloud_functions_test
+dev.py
+__pycache__
+*.tif
+*.tiff
